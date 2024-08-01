@@ -1,0 +1,67 @@
+[
+    {
+        "learning_rate" : 1.9487942250159782,
+        "beta1": 0.9721703824185486,
+        "beta2": 0.0,
+        "weight_decay": 0.00024022723093685417,
+        "warmup_steps_fraction": 0.1,
+        "disable_preconditioning": true,
+        "nesterov": true,
+        "dropout_rate": 0.1,
+        "aux_dropout_rate": 0.1,
+        "label_smoothing": 0.2,
+        "cosine_decay_fraction": 1.0
+    },
+    {
+        "learning_rate" : 0.0023792566965593815,
+        "beta1": 0.9800966478498105,
+        "beta2": 0.9632738717172477,
+        "weight_decay": 0.3417568278549717,
+        "warmup_steps_fraction": 0.01,
+        "disable_preconditioning": false,
+        "nesterov": true,
+        "dropout_rate": 0.0,
+        "aux_dropout_rate": 0.0,
+        "label_smoothing": 0.0,
+        "cosine_decay_fraction": 0.75
+    },
+    {
+        "learning_rate" : 0.003705201967500061,
+        "beta1": 0.9735338788784104,
+        "beta2": 0.9785557586542197,
+        "weight_decay": 0.022670946869370066,
+        "warmup_steps_fraction": 0.1,
+        "disable_preconditioning": false,
+        "nesterov": true,
+        "dropout_rate": 0.1,
+        "aux_dropout_rate": 0.1,
+        "label_smoothing": 0.2,
+        "cosine_decay_fraction": 0.75
+    },
+    {
+        "learning_rate" : 0.0014271957958295392,
+        "beta1": 0.9661952124707597,
+        "beta2": 0.9957304053273589,
+        "weight_decay": 0.09153141484048229,
+        "warmup_steps_fraction": 0.01,
+        "nesterov": true,
+        "disable_preconditioning": false,
+        "dropout_rate": 0.1,
+        "aux_dropout_rate": 0.1,
+        "label_smoothing": 0.1,
+        "cosine_decay_fraction": 1.0
+    },
+    {
+        "learning_rate" : 0.001768509931943289,
+        "beta1": 0.9414979138541995,
+        "beta2": 0.9768053375036079,
+        "weight_decay": 0.0279513959224539,
+        "warmup_steps_fraction": 0.02,
+        "disable_preconditioning": false,
+        "nesterov": true,
+        "dropout_rate": 0.0,
+        "aux_dropout_rate": 0.1,
+        "label_smoothing": 0.2,
+        "cosine_decay_fraction": 1.0
+    }
+]

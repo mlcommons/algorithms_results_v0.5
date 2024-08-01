@@ -1,0 +1,4 @@
+global_step,grad_norm,loss,train/ctc_loss,train/wer,validation/ctc_loss,validation/wer,validation/num_examples,test/ctc_loss,test/wer,test/num_examples,score,total_duration,accumulated_submission_time,accumulated_eval_time,accumulated_logging_time,preemption_count
+0,70.77063751220703,32.32012176513672,,,,,,,,,,,,,,
+1,,,30.83631479623931,1.7211043569656188,29.961862065501307,1.7972481050547966,5348.0,30.002232402090456,1.8305404911339955,2472.0,7.486112594604492,41.72936010360718,7.486112594604492,33.821078062057495,0.0,0.0
+1,70.94296264648438,31.716657638549805,,,,,,,,,,,,,,

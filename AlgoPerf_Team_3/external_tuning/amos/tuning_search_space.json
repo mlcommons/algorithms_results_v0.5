@@ -1,0 +1,67 @@
+[
+    {
+        "style": "reduced",
+        "beta1": 0.9,
+        "beta2": 0.98,
+        "converge": 0.65,
+        "l2": 0.012,
+        "warmup": 0.02,
+        "eta_overrides": -1,
+        "optimizer": "amos",
+        "dropout_rate": 0.0,
+        "aux_dropout_rate": 0.0,
+        "label_smoothing": 0.1
+    },
+    {
+        "style": "adam",
+        "beta1": 0.95,
+        "beta2": 0.999,
+        "converge": 0.75,
+        "l2": 0.002,
+        "warmup": 0.02,
+        "eta_overrides": 0.062,
+        "optimizer": "amos",
+        "dropout_rate": 0.1,
+        "aux_dropout_rate": 0.1,
+        "label_smoothing": 0.0
+    },
+    {
+        "style": "adam",
+        "beta1": 0.95,
+        "beta2": 0.995,
+        "converge": 0.65,
+        "l2": 0.001,
+        "warmup": 0.03,
+        "eta_overrides": -1,
+        "optimizer": "amos",
+        "dropout_rate": 0.1,
+        "aux_dropout_rate": 0.1,
+        "label_smoothing": 0.2
+    },
+    {
+        "style": "adam",
+        "beta1": 0.95,
+        "beta2": 0.999,
+        "converge": 0.65,
+        "l2": 0.0028,
+        "warmup": 0.02,
+        "eta_overrides": -1,
+        "optimizer": "amos",
+        "dropout_rate": 0.0,
+        "aux_dropout_rate": 0.0,
+        "label_smoothing": 0.2
+    },
+    {
+        "style": "adam",
+        "beta1": 0.95,
+        "beta2": 0.999,
+        "converge": 0.75,
+        "l2": 0.007,
+        "warmup": 0.02,
+        "eta_overrides": -1,
+        "optimizer": "amos",
+        "dropout_rate": 0.1,
+        "aux_dropout_rate": 0.1,
+        "label_smoothing": 0.0
+    }
+]

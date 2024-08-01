@@ -1,0 +1,67 @@
+[
+    {
+        "learning_rate" :  0.0019622900485451312,
+        "beta1": 0.8009875258060416,
+        "beta2": 0.9601975051612083,
+        "weight_decay": 0.040896666067943545,
+        "warmup_steps_fraction": 0.05,
+        "nesterov": true,
+        "power": 2.0,
+        "dropout_rate": 0.0,
+        "aux_dropout_rate": 0.0,
+        "label_smoothing": 0.1,
+        "cosine_decay_fraction": 1.0
+    },
+    {
+        "learning_rate" : 0.0013002412605362058,
+        "beta1": 0.9603612866058248,
+        "beta2": 0.9778023204992619,
+        "weight_decay": 0.16056758401092633,
+        "warmup_steps_fraction": 0.05,
+        "nesterov": true,
+        "power": 2.0,
+        "dropout_rate": 0.1,
+        "aux_dropout_rate": 0.1,
+        "label_smoothing": 0.2,
+        "cosine_decay_fraction": 1.0
+    },
+    {
+        "learning_rate" : 0.0023792566965593815,
+        "beta1": 0.9800966478498105,
+        "beta2": 0.9632738717172477,
+        "weight_decay": 0.3417568278549717,
+        "warmup_steps_fraction": 0.01,
+        "nesterov": true,
+        "power": 2.0,
+        "dropout_rate": 0.0,
+        "aux_dropout_rate": 0.1,
+        "label_smoothing": 0.0,
+        "cosine_decay_fraction": 0.75
+    },
+    {
+        "learning_rate" : 0.003689112930403633,
+        "beta1": 0.9762202917508654,
+        "beta2": 0.995244058350173,
+        "weight_decay": 0.061885025693737994,
+        "warmup_steps_fraction": 0.05,
+        "nesterov": true,
+        "power": 1.5,
+        "dropout_rate": 0.0,
+        "aux_dropout_rate": 0.0,
+        "label_smoothing": 0.2,
+        "cosine_decay_fraction": 1.0
+    },
+    {
+        "learning_rate" : 0.0014271957958295392,
+        "beta1": 0.9661952124707597,
+        "beta2": 0.9957304053273589,
+        "weight_decay": 0.09153141484048229,
+        "warmup_steps_fraction": 0.01,
+        "nesterov": true,
+        "power": 2.0,
+        "dropout_rate": 0.1,
+        "aux_dropout_rate": 0.1,
+        "label_smoothing": 0.1,
+        "cosine_decay_fraction": 1.0
+    }
+]

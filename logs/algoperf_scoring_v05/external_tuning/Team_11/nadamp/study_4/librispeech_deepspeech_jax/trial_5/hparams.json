@@ -1,0 +1,13 @@
+{
+  "learning_rate": 0.0014271957958295392,
+  "beta1": 0.9661952124707597,
+  "beta2": 0.9957304053273589,
+  "weight_decay": 0.09153141484048229,
+  "warmup_steps_fraction": 0.01,
+  "nesterov": true,
+  "power": 2.0,
+  "dropout_rate": 0.1,
+  "aux_dropout_rate": 0.1,
+  "label_smoothing": 0.1,
+  "cosine_decay_fraction": 1.0
+}

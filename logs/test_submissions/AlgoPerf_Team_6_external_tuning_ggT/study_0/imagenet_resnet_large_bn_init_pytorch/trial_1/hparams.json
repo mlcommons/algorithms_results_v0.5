@@ -1,0 +1,13 @@
+{
+  "learning_rate": 0.0006929684615053966,
+  "momentum": 0.9510341824585565,
+  "damping": 6.511268649804046e-05,
+  "beta2": 0.32384493021168637,
+  "weight_decay": 0.0008820243997794419,
+  "lr_cov": 0.15434182021709708,
+  "T": 10,
+  "step_hint_factor": 0.5625,
+  "warmup_factor": 0.05,
+  "label_smoothing": 0.1,
+  "dropout_rate": 0.0
+}

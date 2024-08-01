@@ -1,0 +1,2 @@
+-e git+https://github.com/google/learned_optimization.git@2892faec4d5b24a419b6892056af8ee6f7920309#egg=learned_optimization
+tensorflow-metadata==1.14.0

@@ -1,0 +1,2 @@
+accumulated_eval_time,accumulated_logging_time,accumulated_submission_time,global_step,preemption_count,score,test/accuracy,test/loss,test/num_examples,total_duration,train/accuracy,train/loss,validation/accuracy,validation/loss,validation/num_examples
+35.107053995132446,0,103.75477004051208,1,0,103.75477004051208,0.0010000000474974513,6.912015914916992,10000,138.86191749572754,0.0010762116871774197,6.912512302398682,0.0007399999885819852,6.912141799926758,50000

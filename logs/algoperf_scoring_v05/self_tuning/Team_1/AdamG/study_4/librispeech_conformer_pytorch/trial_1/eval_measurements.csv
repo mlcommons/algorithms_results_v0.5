@@ -1,0 +1,2 @@
+accumulated_eval_time,accumulated_logging_time,accumulated_submission_time,global_step,preemption_count,score,test/ctc_loss,test/num_examples,test/wer,total_duration,train/ctc_loss,train/wer,validation/ctc_loss,validation/num_examples,validation/wer
+33.2927520275116,0,7.696701765060425,1,0,7.696701765060425,30.852713078263115,2472,1.421871508947251,41.415382385253906,31.936442443659615,1.417949797889739,30.736657373920032,5348,1.38147057403563
